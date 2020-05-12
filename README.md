@@ -1,5 +1,5 @@
 ## 3DUNet implemented with pytorch
-
+本文主要介绍3DUNet网络，及其在LiTS2017肝脏肿瘤数据集上训练的Pytorch实现代码。https://zhuanlan.zhihu.com/p/113318562
 ## Introduction
 The repository is a 3DUNet implemented with pytorch, referring to this [project](https://github.com/panxiaobai/lits_pytorch). I have redesigned the code structure and used the model to perform liver and tumor segmentation on the lits2017 dataset.  
 paper: [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://lmb.informatik.uni-freiburg.de/Publications/2016/CABR16/cicek16miccai.pdf)
